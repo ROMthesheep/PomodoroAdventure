@@ -1,0 +1,57 @@
+{
+	"0": {
+		"1": {
+			"Tipo": "Boton",
+			"Texto": "START"
+			},
+		"2": {
+			"Tipo": "Boton",
+			"Texto": "SETTINGS"
+			},
+		"separador": {
+			"Tipo": "Separador"
+		},
+		"3": {
+			"Tipo": "Boton",
+			"Texto": "EXIT"
+			},
+	},
+	"1": {
+		"1": {
+			"Tipo": "Boton",
+			"Texto": "MUSIC_DISABLE"
+			},
+		"separador": {
+			"Tipo": "Separador"
+		},
+		"2": {
+			"Tipo": "Boton",
+			"Texto": "BACK"
+			}
+	},
+	"2": {
+		"1": {
+			"Tipo": "Boton",
+			"Texto": "Salir de aventura"
+		},
+		"2": {
+			"Tipo": "Boton",
+			"Texto": "Inventario"
+		},
+		"3": {
+			"Tipo": "Boton",
+			"Texto": "Historial"
+		},
+		"4": {
+			"Tipo": "Boton",
+			"Texto": "Estadistica"
+		},
+		"separador": {
+			"Tipo": "Separador"
+		},
+		"5": {
+			"Tipo": "Boton",
+			"Texto": "BACK"
+		},
+	},
+}
